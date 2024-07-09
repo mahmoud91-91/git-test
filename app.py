@@ -8,3 +8,6 @@ n=10
 m=2
 print(p2(m,n))
 """we want to produce many it apps"""
+h=12
+k=34
+print(h*sqrt(k))
