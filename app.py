@@ -1,4 +1,4 @@
-from math import sqrt
+from math import sqrt, abs
 print("this is reset course")
 def p(a,b):
     return a+b
@@ -12,3 +12,5 @@ print(p2(m,n))
 h=12
 k=34
 print(h*sqrt(k))
+t=[-1,2,-3,-4,5,6,7,-9]
+print(abs(t))
