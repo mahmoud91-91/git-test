@@ -53,7 +53,8 @@ Unordered:
 
   ## project links
 
- <p>to see the picture of project please tap the </p>
+ <p>to see the picture of project please tap the below link: </p>
+ 
  [git course project](https://github.com/mahmoud91-91/git-test)
 
 # Image 
